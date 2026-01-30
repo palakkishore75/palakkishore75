@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -20,11 +26,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
-</div>
 
-###
 
 ---
 
